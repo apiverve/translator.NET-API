@@ -98,7 +98,7 @@ if(response.error != null) {
   "data": {
     "sourceLang": "en",
     "targetLang": "es",
-    "translatedText": "¡Estoy tan emocionada de que mañana hará sol! ¡No puedo esperar!"
+    "translatedText": "¡Estoy tan emocionada porque mañana hará sol! ¡No puedo esperar!"
   },
   "code": 200
 }
